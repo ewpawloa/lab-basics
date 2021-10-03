@@ -1,6 +1,6 @@
 package pl.wszib.lab1;
 
-public class MyClass {
+public class MyClass implements MyInterface{
     public String name;
     protected String name1;
     String name2;
